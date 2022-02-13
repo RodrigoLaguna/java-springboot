@@ -4,7 +4,7 @@
 
 Este proyecto se genero con la version 2.6.3 de Spring Boot
 
-![Screenshot](Captura2.png)
+![Screenshot](arquitectura.png)
 
 ## Vista previa
 
